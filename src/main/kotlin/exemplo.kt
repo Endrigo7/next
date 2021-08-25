@@ -1,2 +1,8 @@
-eu gosto de pipoca doce
-e também de pipoca salgada
+fun main(){
+
+    println("digite seu nome")
+
+    val nome = readLine()
+    println("hello $nome")
+
+}
