@@ -1,8 +1,7 @@
 fun main(){
-
     println("digite seu nome")
 
     val nome = readLine()
-    println("hello $nome")
+    println("hello, $nome")
 
 }
