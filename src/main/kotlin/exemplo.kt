@@ -1,7 +1,7 @@
 fun main(){
-    println("digite seu nome animal")
+    println("Por favor, digite seu nome meu querido!")
 
     val nome = readLine()
-    println("hello, $nome")
+    println("Olá, $nome! Bom dia!")
 
 }
