@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Olá, eu sou Hilson
 Professor do IFPE - Campus Recife
 Mestre em Ciência da Computação (UFPE)
@@ -7,3 +8,13 @@ Pai de Júlia e Júlio, marido de Angélica, torcedor do Sport, Fã dos Beatles 
 # Hobbies
 Churrasco
 Futebol
+=======
+# Isto é um titulo
+#### isto é um titulo menor
+
+Para executar esse programa vc precisa do *gradle*.
+
+* teste1
+* teste2
+* 
+>>>>>>> refs/remotes/origin/main
